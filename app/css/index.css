@@ -1,0 +1,13 @@
+html,
+body {
+    background:#909;
+    height: 725px;
+    overflow: hidden;
+    width: 368px;
+    -webkit-app-region: drag;
+    -webkit-user-select: none;
+}
+.box .h2{
+    text-align:center;
+    color:#ccc;
+}
